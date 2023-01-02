@@ -1,3 +1,5 @@
-.stack-work/
 *~
+.stack-work/
+.idea/
+*.iml
 todo.db
